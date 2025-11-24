@@ -1,0 +1,74 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: Inter, system-ui, sans-serif;
+
+  --color-woodsmoke-50: #f6f6f6;
+  --color-woodsmoke-100: #e7e7e7;
+  --color-woodsmoke-200: #d1d1d1;
+  --color-woodsmoke-300: #b0b0b0;
+  --color-woodsmoke-400: #888888;
+  --color-woodsmoke-500: #6d6d6d;
+  --color-woodsmoke-600: #5d5d5d;
+  --color-woodsmoke-700: #4f4f4f;
+  --color-woodsmoke-800: #454545;
+  --color-woodsmoke-900: #3d3d3d;
+  --color-woodsmoke-950: #1c1c1c;
+
+  --color-card-blue: #e3f5ff;
+  --color-card-light: #f7f9fb;
+  --color-card-purple: #e5ecf6;
+
+  --color-bar-light: #cfdfea;
+  --color-bar-dark: #a8c5da;
+
+  /* --color-dark-line-chart: #c6c7f8; */
+
+  --color-revenue-chart-previous: #a8c5da;
+
+  --color-segment-mint: #baedbd;
+  --color-segment-indigo: #95a4fc;
+  --color-segment-blue: #b1e3ff;
+}
+
+html {
+  font-family: var(--font-sans);
+  scrollbar-gutter: stable;
+}
+body {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+body::-webkit-scrollbar {
+  width: 6px;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 4px;
+}
+
+.table-scrollbar::-webkit-scrollbar {
+  height: 8px;
+}
+
+.table-scrollbar::-webkit-scrollbar-track {
+  background: #f0f0f0; /* light track */
+}
+
+.table-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #a0a0a0; /* visible thumb */
+  border-radius: 8px;
+}
+
+/* For Firefox */
+.table-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #a0a0a0 #f0f0f0;
+}

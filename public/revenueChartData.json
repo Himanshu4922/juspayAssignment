@@ -1,0 +1,14 @@
+{
+  "chartData": [
+    { "month": "Jan", "currentWeek": 15, "previousWeek": 10, "forecast": null },
+    { "month": "Feb", "currentWeek": 9.5, "previousWeek": 18, "forecast": null },
+    { "month": "Mar", "currentWeek": 11.5, "previousWeek": 15, "forecast": null },
+    { "month": "Apr", "currentWeek": 17, "previousWeek": 12, "forecast": 17 },
+    { "month": "May", "currentWeek": null, "previousWeek": 14, "forecast": 21.5 },
+    { "month": "Jun", "currentWeek": null, "previousWeek": 24, "forecast": 21 }
+  ],
+  "summary": {
+    "currentWeekValue": "58,211",
+    "previousWeekValue": "68,768"
+  }
+}

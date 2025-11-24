@@ -1,0 +1,44 @@
+{
+  "locations": [
+    {
+      "id": "ny",
+      "name": "New York",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "x": "27.44%",
+      "y": "38.38%",
+      "revenue": 72000,
+      "maxRevenue": 100000
+    },
+    {
+      "id": "sf",
+      "name": "San Francisco",
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "x": "15.99%",
+      "y": "36.01%",
+      "revenue": 39000,
+      "maxRevenue": 100000
+    },
+    {
+      "id": "syd",
+      "name": "Sydney",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "x": "84.00%",
+      "y": "73.82%",
+      "revenue": 25000,
+      "maxRevenue": 60000
+    },
+    {
+      "id": "sg",
+      "name": "Singapore",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "x": "72.84%",
+      "y": "60.25%",
+      "revenue": 61000,
+      "maxRevenue": 100000
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "ordersData": [
+    {
+      "id": "CM9801",
+      "user": {
+        "name": "Natali Craig",
+        "avatarUrl": "https://placehold.co/40x40/7C3AED/ffffff?text=NC"
+      },
+      "project": "Landing Page",
+      "address": "Meadow Lane Oakland",
+      "date": "Just now",
+      "status": "In Progress",
+      "isPending": false
+    },
+    {
+      "id": "CM9802",
+      "user": {
+        "name": "Kate Morrison",
+        "avatarUrl": "https://placehold.co/40x40/DC2626/ffffff?text=KM"
+      },
+      "project": "CRM Admin pages",
+      "address": "Larry San Francisco",
+      "date": "A minute ago",
+      "status": "Complete",
+      "isPending": false
+    },
+    {
+      "id": "CM9803",
+      "user": {
+        "name": "Drew Cano",
+        "avatarUrl": "https://placehold.co/40x40/059669/ffffff?text=DC"
+      },
+      "project": "Client Project",
+      "address": "Bagwell Avenue Ocola",
+      "date": "1 hour ago",
+      "status": "Pending",
+      "isPending": true
+    },
+    {
+      "id": "CM9804",
+      "user": {
+        "name": "Orlando Diggs",
+        "avatarUrl": "https://placehold.co/40x40/1D4ED8/ffffff?text=OD"
+      },
+      "project": "Admin Dashboard",
+      "address": "Washburn Baton Rouge",
+      "date": "Yesterday",
+      "status": "Approved",
+      "isPending": false
+    },
+    {
+      "id": "CM9805",
+      "user": {
+        "name": "Andi Lane",
+        "avatarUrl": "https://placehold.co/40x40/9CA3AF/ffffff?text=AL"
+      },
+      "project": "App Landing Page",
+      "address": "Nest Lane Olivette",
+      "date": "Feb 2, 2023",
+      "status": "Rejected",
+      "isPending": false
+    },
+    {
+      "id": "CM9806",
+      "user": {
+        "name": "Anna Smith",
+        "avatarUrl": "https://placehold.co/40x40/FF5733/ffffff?text=AS"
+      },
+      "project": "Marketing Website",
+      "address": "Broadway New York",
+      "date": "2 days ago",
+      "status": "Pending",
+      "isPending": true
+    },
+    {
+      "id": "CM9807",
+      "user": {
+        "name": "John Doe",
+        "avatarUrl": "https://placehold.co/40x40/4287f5/ffffff?text=JD"
+      },
+      "project": "E-commerce App",
+      "address": "5th Avenue Los Angeles",
+      "date": "Mar 10, 2023",
+      "status": "Complete",
+      "isPending": false
+    },
+    {
+      "id": "CM9808",
+      "user": {
+        "name": "Mary Johnson",
+        "avatarUrl": "https://placehold.co/40x40/27ae60/ffffff?text=MJ"
+      },
+      "project": "Mobile App",
+      "address": "Sunset Boulevard",
+      "date": "Last week",
+      "status": "In Progress",
+      "isPending": false
+    },
+    {
+      "id": "CM9809",
+      "user": {
+        "name": "Paul Walker",
+        "avatarUrl": "https://placehold.co/40x40/9b59b6/ffffff?text=PW"
+      },
+      "project": "Admin Panel",
+      "address": "Main Street Chicago",
+      "date": "Mar 1, 2023",
+      "status": "Rejected",
+      "isPending": false
+    },
+    {
+      "id": "CM9810",
+      "user": {
+        "name": "Linda Green",
+        "avatarUrl": "https://placehold.co/40x40/f39c12/ffffff?text=LG"
+      },
+      "project": "Landing Page",
+      "address": "Oak Street Boston",
+      "date": "Today",
+      "status": "Approved",
+      "isPending": false
+    },
+    {
+      "id": "CM9811",
+      "user": {
+        "name": "James Brown",
+        "avatarUrl": "https://placehold.co/40x40/34495e/ffffff?text=JB"
+      },
+      "project": "Client Portal",
+      "address": "Elm Street Houston",
+      "date": "Yesterday",
+      "status": "Complete",
+      "isPending": false
+    },
+    {
+      "id": "CM9812",
+      "user": {
+        "name": "Emma Wilson",
+        "avatarUrl": "https://placehold.co/40x40/e74c3c/ffffff?text=EW"
+      },
+      "project": "Dashboard",
+      "address": "Maple Avenue Dallas",
+      "date": "3 hours ago",
+      "status": "In Progress",
+      "isPending": false
+    },
+    {
+      "id": "CM9813",
+      "user": {
+        "name": "David Lee",
+        "avatarUrl": "https://placehold.co/40x40/8e44ad/ffffff?text=DL"
+      },
+      "project": "Marketing Campaign",
+      "address": "Park Lane Miami",
+      "date": "Feb 20, 2023",
+      "status": "Pending",
+      "isPending": true
+    },
+    {
+      "id": "CM9814",
+      "user": {
+        "name": "Olivia Taylor",
+        "avatarUrl": "https://placehold.co/40x40/1abc9c/ffffff?text=OT"
+      },
+      "project": "Support Dashboard",
+      "address": "High Street Seattle",
+      "date": "Feb 15, 2023",
+      "status": "Rejected",
+      "isPending": false
+    },
+    {
+      "id": "CM9815",
+      "user": {
+        "name": "Chris Evans",
+        "avatarUrl": "https://placehold.co/40x40/34495e/ffffff?text=CE"
+      },
+      "project": "Internal Tools",
+      "address": "Oak Lane Denver",
+      "date": "Mar 5, 2023",
+      "status": "Approved",
+      "isPending": false
+    }
+  ]
+}
