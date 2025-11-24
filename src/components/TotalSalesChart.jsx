@@ -65,8 +65,8 @@ export default function TotalSalesChart({ totalSalesData }) {
   const tooltipValue = tooltip.data
     ? ((tooltip.data.value / totalSalesValue) * 100).toFixed(1)
     : 0;
-  console.log(tooltipValue);
-  console.log(totalSalesValue);
+  // console.log(tooltipValue);
+  // console.log(totalSalesValue);
   const { isDark } = useTheme();
 
   return (

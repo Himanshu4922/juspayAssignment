@@ -1,17 +1,17 @@
 // import Favorites from "../pages/Favorites.jsx";
-import Overview from "../pages/Overview.jsx";
+import Overview from "../pages/OrderList.jsx";
 
 const favoritesRoutes = {
   path: "favorites",
   children: [
-    {
-      index: true,
-      element: <Overview />,
-    },
-    {
-      path: "overview",
-      element: <Overview />,
-    },
+    // {
+    //   index: true,
+    //   element: <Overview />,
+    // },
+    // {
+    //   path: "overview",
+    //   element: <Overview />,
+    // },
   ],
 };
 
