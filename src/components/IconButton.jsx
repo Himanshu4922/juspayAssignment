@@ -8,7 +8,7 @@ function IconButton({ children, label, onClick, disabled = true }) {
                  text-woodsmoke-950 dark:text-white
                  hover:bg-woodsmoke-950/5 
                  dark:hover:bg-woodsmoke-900
-                 focus:outline-none focus-visible:ring-2 focus-visible:ring-woodsmoke-500 cursor-pointer"
+               cursor-pointer"
     >
       {children}
     </button>

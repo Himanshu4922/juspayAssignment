@@ -37,7 +37,6 @@ export default function SearchBar({
         size={16}
       />
 
-      {/* Input */}
       <input
         ref={ref}
         type="text"
@@ -50,7 +49,7 @@ export default function SearchBar({
           px-7 py-1 pr-9
           text-sm text-woodsmoke-950 dark:text-white
           placeholder:text-woodsmoke-950/20
-          focus:outline-none focus:ring-2 focus:ring-woodsmoke/10 dark:focus:ring-white/20
+          focus:outline-none focus:ring-1 focus:ring-woodsmoke-950/10 dark:focus:ring-white/20
            ${border} dark:placeholder:text-white/20`}
       />
 

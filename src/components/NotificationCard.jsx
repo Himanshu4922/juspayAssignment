@@ -2,7 +2,7 @@ import { Bug, Radio, UserRound } from "lucide-react";
 import React from "react";
 
 function NotificationCard({ cardItem }) {
-  console.log(cardItem);
+  // console.log(cardItem);
   const notificationType = cardItem.type;
   const colorAndIconClass = {
     bug: {

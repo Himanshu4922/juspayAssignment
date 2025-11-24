@@ -1,6 +1,6 @@
 function ActivityCard({ cardItem, totalLength, i }) {
   const avatarURL = cardItem.avatarUrl;
-  console.log(totalLength);
+  // console.log(totalLength);
 
   return (
     <div className="flex p-1 gap-2">
