@@ -4,10 +4,7 @@ import UserProfile from "../pages/UserProfile.jsx";
 const pagesRoutes = {
   path: "pages",
   element: <Pages />,
-  children: [
-    { path: "user-profile", element: <UserProfile /> },
-    // other pages child routes
-  ],
+  children: [{ path: "user-profile", element: <UserProfile /> }],
 };
 
 export default pagesRoutes;

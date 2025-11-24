@@ -197,7 +197,7 @@ function LeftSidebar() {
   const activeItems = activeTab === "favorites" ? favoritesItems : recentItems;
 
   return (
-    <aside className={`bg-white h-full dark:bg-woodsmoke-950`}>
+    <aside className={`bg-white min-h-full dark:bg-woodsmoke-950`}>
       <nav
         className={` h-full flex flex-col border-r border-woodsmoke-950/10 gap-4 bg-white dark:bg-woodsmoke-950 dark:border-white/10 ${
           isLeftSidebarOpen ? "py-5 px-4" : "px-0 py-0"
