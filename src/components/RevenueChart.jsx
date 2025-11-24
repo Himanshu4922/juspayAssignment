@@ -59,7 +59,7 @@ function RevenueChart() {
         }
 
         const data = await response.json();
-        console.log(data);
+        // console.log(data);
         setChartData(data.chartData);
         setSummaryValues(data.summary);
       } catch (error) {
@@ -111,7 +111,6 @@ function RevenueChart() {
           </div>
         </div>
       </div>
-      {/* chart area */}
       <ResponsiveContainer height="100%" width="100%">
         <LineChart
           data={chartData}

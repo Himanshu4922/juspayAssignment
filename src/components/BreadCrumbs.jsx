@@ -13,7 +13,7 @@ function BreadCrumbs() {
     <div className="flex items-center gap-2 text-sm text-woodsmoke-950 dark:text-white">
       {pathnames.map((value, index) => {
         const path = `${pathnames.slice(0, index + 1).join("/")}`;
-        console.log(path);
+        // console.log(path);
         const isLast = index === pathnames.length - 1;
 
         return (

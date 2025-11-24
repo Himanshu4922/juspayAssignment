@@ -12,7 +12,7 @@ function TopSellingProducts() {
           throw new Error("Failed to fetch top selling products");
         }
         const data = await response.json();
-        console.log(data);
+        // console.log(data);
         setTopSellingProducts(data.products);
       } catch (error) {
         console.error("Error fetching top selling products:", error);
