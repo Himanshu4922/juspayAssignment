@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import worldMap from "../assets/worldMap.svg";
-import worldMapDark from "../assets/worldMapDark.svg";
+import worldMapDark from "../assets/WorldMapDark.svg";
 import { useTheme } from "../context/ThemeProvider";
 
 export default function RevenueWorldMap() {
