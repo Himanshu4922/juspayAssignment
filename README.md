@@ -4,7 +4,7 @@ A responsive and pixel perfect analytics dashboard built with **React, Vite, and
 This project showcases real world dashboard functionality with interactive data visualizations, a fully functional order management system, theme switching, and a scalable recursive sidebar navigation system , all optimized for performance, responsiveness, and clean code structure.
 
 
-### 🌐 [Live Demo](https://juspay-assignment-ten.vercel.app/)
+### 🌐 [Live Demo To Assignment (Click Me)](https://juspay-assignment-ten.vercel.app/)
 
 ![Dashboard Preview](/public/preview1.png)
 ![Dashboard Preview](/public/preview2.png)
